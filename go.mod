@@ -13,7 +13,7 @@ require (
 	github.com/insomniacslk/dhcp v0.0.0-20240710054256-ddd8a41251c9
 	github.com/linuxkit/virtsock v0.0.0-20220523201153-1a23e78aa7a2
 	github.com/mdlayher/vsock v1.2.1
-	github.com/miekg/dns v1.1.61
+	github.com/miekg/dns v1.1.62
 	github.com/onsi/ginkgo v1.16.5
 	github.com/onsi/gomega v1.33.1
 	github.com/opencontainers/go-digest v1.0.0
@@ -41,7 +41,7 @@ require (
 	github.com/u-root/uio v0.0.0-20240224005618-d2acac8f3701 // indirect
 	github.com/vishvananda/netns v0.0.0-20211101163701-50045581ed74 // indirect
 	golang.org/x/mod v0.18.0 // indirect
-	golang.org/x/net v0.26.0 // indirect
+	golang.org/x/net v0.27.0 // indirect
 	golang.org/x/text v0.16.0 // indirect
 	golang.org/x/time v0.3.0 // indirect
 	golang.org/x/tools v0.22.0 // indirect
